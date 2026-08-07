@@ -1,0 +1,13 @@
+{
+  "background_color": "#1620db",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "tomasnewell4-dot.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "tomasnewell4-dot.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Mi Argentina",
+  "description": "Mi Argentina"
+}
